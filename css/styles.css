@@ -5,7 +5,7 @@
   width: 71.428571vw;     /* 71.428571  */
   height: 71.428571vh;
   background: white;
-  border: 1px solid rgb(0, 0, 0);
+  border: .25px solid rgb(0, 0, 0);
 }
 .bow2{
   display: flex;
@@ -13,7 +13,7 @@
   width: 42.85714vw;        /* 42.85714  */
   height: 42.85714vh;
   background: white;
-  border: 1px solid black;
+  border: .25px solid black;
 }
 .bow3{
   display: flex;
@@ -38,7 +38,7 @@
   width: 71.428571vw;     /* 71.428571  */
   height: 71.428571vh;
   background: white;
-  border: 1px solid black;
+  border: .25px solid black;
 
 }
 .wob2{
