@@ -1,4 +1,8 @@
 
+body {
+  overflow:hidden;
+}
+
 .bow1{
   display: flex;
   margin: auto;
@@ -24,11 +28,15 @@
 }
 
 .wob {
-  margin-top: 10vw;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
 }
 
 .bow {
-  margin-top: 10vw;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
 }
 
 
