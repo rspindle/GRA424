@@ -64,8 +64,22 @@ body {
   background: white;
 }
 
-.lineinteraction1 {
+.linesquare {
   display: flex;
-  margin: auto;
+  flex-direction: column;
+  width: 100vw;
+  height: 80vh;
 }
+
+.rectangle {
+  display: flex; 
+  margin: auto;
+  width: 71.428571vw;        
+  height: 5.8vh; 
+  background-color: black; 
+}
+
+
+
+
 
