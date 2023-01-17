@@ -1,6 +1,6 @@
 
 body {
-  overflow:hidden;
+  overflow: hidden;
 }
 
 .bow1{
@@ -66,17 +66,28 @@ body {
 
 .linesquare {
   display: flex;
+  position:relative;
+  margin: auto;
+  margin-top: 5rem;
   flex-direction: column;
   width: 100vw;
-  height: 80vh;
+  height: 78vh;
 }
 
 .rectangle {
   display: flex; 
+  position:relative;
   margin: auto;
   width: 71.428571vw;        
-  height: 5.8vh; 
+  height: 5.4vh; 
   background-color: black; 
+}
+
+.overlay-image {
+  position:fixed;
+  margin: auto;
+  display: flex;
+  justify-content: center;
 }
 
 
